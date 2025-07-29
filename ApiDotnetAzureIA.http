@@ -1,0 +1,6 @@
+@ApiDotnetAzureIA_HostAddress = http://localhost:5250
+
+GET {{ApiDotnetAzureIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
